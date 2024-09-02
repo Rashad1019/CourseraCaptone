@@ -1,2 +1,2 @@
 # Module5
-All the projects for Module 5 
+Projects for the entire Captsone 
